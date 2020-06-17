@@ -7,4 +7,6 @@ public class user {
     public void a(){
         System.out.println("ideal");
     }
+	public void ttttt(){
+}
 }
